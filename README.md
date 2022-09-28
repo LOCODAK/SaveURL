@@ -1,4 +1,4 @@
-# cy2w3pAr
+# URLSaver
 
 ## About Web Extension
 Use this extension to save the URLs of any website you want to and it will add it in the cecklist.
